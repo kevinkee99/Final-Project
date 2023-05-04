@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a test.</h1>
+<p>This is a test as well.</p>
+
+</body>
+</html>
