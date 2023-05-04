@@ -9,7 +9,7 @@
 <body>
 <div id="myDiv">
 <p>
-  Test 1
+  This is a test for CSS project.
 </p>
  
 </div>
