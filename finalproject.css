@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
-  background-color: lightblue;
+    background-color: gold;
 }
-
+  
 h1 {
-  color: white;
-  text-align: center;
+  color: navy;
+  margin-left: 20px;
 }
 
-p {
-  font-family: verdana;
+#myDiv{
+  background-color: grey;
+  border-style: dotted;
+  border-color: blue;
 }
-</style>
-</head>
-<body>
 
-<h1>This is a test.</h1>
-<p>This is a test as well.</p>
-
-</body>
-</html>
