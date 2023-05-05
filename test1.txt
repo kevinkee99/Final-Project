@@ -3,14 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <title>FInal Proejct</title>
+<link rel="stylesheet" href="finalproject.css">
 
 </head>
 
 <body>
+  <h1>IT-1000 Final Project</h1>
 <div id="myDiv">
-<p>
-  This is a test for CSS project.
-</p>
+  <p>
+    This page will serve as a home page to navigate to different pages.
+  </p>
  
 </div>
 </body>
